@@ -30,16 +30,13 @@ Este projeto demonstra o uso dos protocolos **TCP** e **UDP** em aplicações de
 
 ## 📁 Estrutura do Projeto
 
-📂 tcp_udp_portfolio/
+📂 /
 ├── cliente_tcp.py
 ├── servidor_tcp.py
 ├── cliente_udp.py
 ├── servidor_udp.py
 └── README.md
 
-yaml
-Copiar
-Editar
 
 ---
 
