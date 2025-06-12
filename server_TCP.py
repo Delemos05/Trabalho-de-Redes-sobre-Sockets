@@ -2,7 +2,7 @@ import random
 import socket
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server_socket.bind(('192.168.1.7', 12000))
+server_socket.bind(('192.168.1.7', 12120))
 server_socket.listen(1)
 
 while True:
